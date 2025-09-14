@@ -23,3 +23,6 @@ Nothing happens. Button appears pressed but no action triggered.
 
 ### ✅ Suggested Fix
 Check mobile event listeners and button click handler.
+Commit Message
+Added bug report for login issue
+  
