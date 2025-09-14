@@ -1,4 +1,4 @@
-# 🔐 Login Module – Manual Test Cases
+#  Login Module – Manual Test Cases
 
 | Test Case ID | Description                     | Steps to Execute                        | Expected Result             | Status |
 |--------------|----------------------------------|------------------------------------------|-----------------------------|--------|
