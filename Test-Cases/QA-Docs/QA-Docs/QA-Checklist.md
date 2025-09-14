@@ -1,4 +1,4 @@
-# ✅ QA Checklist – Web Application
+# QA Checklist – Web Application
 
 - [x] Login functionality tested
 - [x] Form validation (client & server side)
